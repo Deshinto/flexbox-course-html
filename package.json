@@ -1,0 +1,27 @@
+{
+  "name": "flexbox-course-html",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "gulpgile.js",
+  "dependencies": {
+    "browser-sync": "^2.26.14",
+    "cli": "^1.0.1",
+    "gulp-cli": "^2.3.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deshinto/flexbox-course-html.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deshinto/flexbox-course-html/issues"
+  },
+  "homepage": "https://github.com/Deshinto/flexbox-course-html#readme"
+}
